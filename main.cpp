@@ -10,5 +10,9 @@ int main() {
     cout << "yes or no";
     cin >> a;
     cout << "lox!";
+
+    //sosika
     return 0;
+
+    
 }
